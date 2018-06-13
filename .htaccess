@@ -1,0 +1,2 @@
+#RewriteBase  /yourlaravel project name/public
+RewriteBase /blog/public
